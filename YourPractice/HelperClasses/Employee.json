@@ -1,0 +1,23 @@
+[
+    {
+        "empId": 1,
+        "empCode": 1499,
+        "empFName": "Devangi",
+        "empLName": "Prajapati",
+        "empDesignation": "IOS Developer",
+    },
+    {
+        "empId": 2,
+        "empCode": 1503,
+        "empFName": "Devangi",
+        "empLName": "Shah",
+        "empDesignation": "Android Developer",
+    },
+    {
+        "empId": 3,
+        "empCode": 1471,
+        "empFName": "Mohini",
+        "empLName": "Bhavasar",
+        "empDesignation": "Web Developer",
+    }
+]
